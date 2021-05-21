@@ -1,5 +1,7 @@
 # Lab8_Starter
-Yue Zhuo
+Partners:
+
+Yue Zhuo &
 Anokhi Mehta
 
 ## Check your understanding q's (FILL OUT)
